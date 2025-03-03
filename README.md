@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @IsrafilMatter
 - 👀 I’m interested in many things
 - 🌱 I’m currently learning Computer Engineering at Polytechnic University of the Philippines
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on games
 - ⚡ Fun fact: Jiujitsu for life
 
 <!---
